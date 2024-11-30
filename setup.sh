@@ -16,4 +16,4 @@ pip install -r requirements.txt
 
 # Run Streamlit app
 echo "Starting the Streamlit app..."
-streamlit run app.py
+streamlit run advanced_training_app.py
